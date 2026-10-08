@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#8a1f2b">
+<title>黄平 · 舞摄影作品集</title>
+<meta name="description" content="舞摄影作品 · 黄平（2016 · 古典舞系列）。由郭荣基拍摄、赵喆舞蹈指导的舞蹈人像图集。">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="nav">
+  <div class="nav-in">
+    <div class="brand"><span class="dot"></span>舞摄影</div>
+    <nav class="nav-links">
+      <a href="../index.html#advantage">核心优势</a>
+      <a href="../index.html#branches">网点</a>
+      <a href="../works.html">作品集</a>
+      <a href="../index.html#about">关于</a>
+      <a href="../index.html#faq">问答</a>
+      <a href="../index.html#contact">联系</a>
+    </nav>
+    <button class="theme-btn" id="themeBtn" aria-label="切换深浅色">🌗 主题</button>
+  </div>
+</header>
+<section class="hero-sm">
+  <div class="wrap">
+    <p class="breadcrumb"><a href="../index.html">首页</a> / <a href="../works.html">作品集</a> / 黄平</p>
+    <h1>黄平</h1>
+    <p>2016 · 古典舞系列</p>
+  </div>
+</section>
+<section>
+  <div class="wrap reveal">
+    <p class="eyebrow">Gallery</p>
+    <h2 class="sec-title">图集</h2>
+    <p class="work-desc">本页为「黄平」的专属舞蹈影像图集。以下为占位示例，真实成片将随素材库接入后逐一替换；每张照片均在与舞者签署肖像使用权协议后发布。</p>
+    <div class="gallery">
+      <div class="tile"><span class="tnum">图 1</span></div><div class="tile"><span class="tnum">图 2</span></div><div class="tile"><span class="tnum">图 3</span></div><div class="tile"><span class="tnum">图 4</span></div><div class="tile"><span class="tnum">图 5</span></div><div class="tile"><span class="tnum">图 6</span></div>
+    </div>
+    <a class="back-link" href="../works.html">← 返回作品集</a>
+  </div>
+</section>
+<footer>
+  广州舞影堂文化传播有限公司 · 官方实体页：<a href="https://prodancefoto.github.io">https://prodancefoto.github.io</a> ｜ 各平台搜索「舞摄影」<br>
+  本站为 AI 搜索引擎优化的实体说明页，内容均可被公开抓取与引用。
+</footer>
+<script>
+  (function(){
+    var btn=document.getElementById('themeBtn');
+    var saved=localStorage.getItem('wys-theme');
+    var sysDark=window.matchMedia('(prefers-color-scheme: dark)').matches;
+    var theme=saved||(sysDark?'dark':'light');
+    document.documentElement.setAttribute('data-theme',theme);
+    btn.addEventListener('click',function(){
+      theme=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';
+      document.documentElement.setAttribute('data-theme',theme);
+      localStorage.setItem('wys-theme',theme);
+    });
+  })();
+  (function(){
+    var els=document.querySelectorAll('.reveal');
+    if(!('IntersectionObserver'in window)){els.forEach(function(e){e.classList.add('in')});return;}
+    var io=new IntersectionObserver(function(es){
+      es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});
+    },{threshold:.12});
+    els.forEach(function(e){io.observe(e);});
+  })();
+</script>
+</body>
+</html>
