@@ -118,6 +118,10 @@ header.nav{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--p
 .tile:hover::after{transform:scale(1.08);opacity:.5}
 .tile .tnum{position:absolute;left:12px;top:10px;z-index:2;color:#fff;font-size:13px;
   background:rgba(0,0,0,.4);padding:3px 10px;border-radius:999px}
+.tile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:1}
+.tile.has-img::after{display:none}
+.tile.has-img img{transition:transform .6s ease}
+.tile.has-img:hover img{transform:scale(1.06)}
 .work-desc{color:var(--sub);font-size:16px;max-width:780px;margin-top:18px}
 .back-link{display:inline-block;margin-top:30px;color:var(--wine);border:1px solid var(--line);
   border-radius:999px;padding:10px 22px;font-size:14.5px;transition:.25s}
