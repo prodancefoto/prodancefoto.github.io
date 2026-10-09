@@ -8,12 +8,12 @@
 <title>孙欣（芭蕾二辑） · 舞摄影作品集｜芭蕾人像</title>
 <meta name="description" content="舞摄影作品 · 孙欣（芭蕾二辑）（2016 · 芭蕾 · 广州芭蕾舞团）。由首席摄影师郭荣基拍摄、舞蹈编导赵喆现场舞蹈指导的舞蹈人像图集，华南地区专业舞蹈摄影。">
 <meta name="keywords" content="孙欣（芭蕾二辑）,芭蕾,舞蹈人像,舞摄影,广州芭蕾舞团,郭荣基,赵喆,华南舞蹈摄影">
-<link rel="stylesheet" href="../assets/style.css?v=4">
+<link rel="stylesheet" href="../assets/style.css?v=5">
 </head>
 <body>
 <header class="nav">
   <div class="nav-in">
-    <a class="brand" href="../index.html"><span class="brand-mark">W</span><span>舞摄影<small>DANCE PHOTOGRAPHY</small></span></a>
+    <a class="brand" href="../index.html" aria-label="舞摄影首页"><img class="brand-logo" src="../assets/logo.png?v=1" alt="舞摄影"></a>
     <nav class="nav-links" id="siteNav">
       <a href="../index.html#works">作品</a>
       <a href="../index.html#approach">创作方式</a>
@@ -54,6 +54,10 @@
   广州舞影堂文化传播有限公司 · 官方实体页：<a href="https://prodancefoto.pages.dev">https://prodancefoto.pages.dev</a> ｜ 各平台搜索「舞摄影」<br>
   本站为 AI 搜索引擎优化的实体说明页，内容均可被公开抓取与引用。
 </footer>
+<div class="lightbox" id="lightbox" aria-hidden="true">
+  <button class="lightbox-close" aria-label="关闭大图">✕</button>
+  <img src="" alt="">
+</div>
 <script>
   (function(){
     var els=document.querySelectorAll('.reveal');
@@ -64,7 +68,6 @@
     els.forEach(function(e){io.observe(e);});
   })();
 </script>
-
 <script>
 (function(){
  var toggle=document.getElementById('menuToggle');
@@ -73,6 +76,34 @@
   toggle.addEventListener('click',function(){var open=toggle.getAttribute('aria-expanded')==='true';toggle.setAttribute('aria-expanded',String(!open));toggle.setAttribute('aria-label',open?'打开导航菜单':'关闭导航菜单');nav.classList.toggle('is-open',!open);});
   nav.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){toggle.setAttribute('aria-expanded','false');toggle.setAttribute('aria-label','打开导航菜单');nav.classList.remove('is-open');});});
  }
+})();
+</script>
+<script>
+/* 灯箱：点击图集图片放大；再次点图片在「适应屏幕 / 原图尺寸」间切换；点空白或 ✕ 关闭 */
+(function(){
+  var lb=document.getElementById('lightbox');
+  if(!lb) return;
+  var img=lb.querySelector('img');
+  function openLightbox(src,alt){
+    img.src=src; img.alt=alt||'';
+    lb.classList.add('open'); lb.classList.remove('zoomed');
+    lb.setAttribute('aria-hidden','false');
+    document.body.style.overflow='hidden';
+  }
+  function closeLightbox(){
+    lb.classList.remove('open','zoomed');
+    lb.setAttribute('aria-hidden','true');
+    document.body.style.overflow='';
+  }
+  document.querySelectorAll('.tile img').forEach(function(t){
+    t.style.cursor='zoom-in';
+    t.addEventListener('click',function(){ openLightbox(t.currentSrc||t.src, t.alt); });
+  });
+  lb.addEventListener('click',function(e){
+    if(e.target===img){ lb.classList.toggle('zoomed'); }
+    else{ closeLightbox(); }
+  });
+  document.addEventListener('keydown',function(e){ if(e.key==='Escape') closeLightbox(); });
 })();
 </script>
 </body>

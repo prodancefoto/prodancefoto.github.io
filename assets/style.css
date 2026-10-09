@@ -61,3 +61,19 @@ html{overflow-x:clip}body{overflow-x:clip}img{height:auto}.nav-in{min-width:0}.b
 .culture-manifesto>p:not(.culture-label):not(.manifesto-sign){max-width:780px;font-size:14px;line-height:2;color:#5c554f}
 .manifesto-sign{font:20px/1.9 var(--serif);color:var(--wine);margin:28px 0 0}
 @media(max-width:760px){.culture-heading{grid-template-columns:1fr;gap:18px;margin:18px 0 30px}.culture-heading h2{font-size:clamp(33px,9vw,42px)}.culture-heading>p{font-size:14px}.story-grid{grid-template-columns:1fr}.story-main{padding:25px 22px}.story-main h3{font-size:29px}.story-main p:not(.culture-label){font-size:13px}.story-quote{min-height:270px;padding:27px}.story-quote blockquote{font-size:29px;margin:26px 0}.timeline-heading{align-items:start;flex-direction:column;gap:12px;margin:54px 0 20px}.timeline-heading h3{font-size:30px}.timeline{grid-template-columns:1fr}.timeline-item{min-height:0;padding:22px}.timeline-item>span{margin-bottom:8px}.culture-manifesto{margin-top:42px;padding:28px 22px}.culture-manifesto h3{font-size:31px}.manifesto-sign{font-size:18px}}
+
+/* --- v5: 导航品牌 LOGO（替换 圆圈W+文字） --- */
+.brand .brand-logo{height:42px;width:auto;display:block}
+@media(max-width:760px){.brand .brand-logo{height:34px}}
+
+/* --- v6: 图集单列顺序浏览 + 点击看原图（灯箱） --- */
+.gallery{column-count:1;column-gap:0;max-width:860px;margin:30px auto 0}
+.tile{margin-bottom:26px}
+.tile img{width:100%;height:auto;display:block}
+.lightbox{position:fixed;inset:0;z-index:999;display:none;background:rgba(12,10,9,.94)}
+.lightbox.open{display:flex;align-items:center;justify-content:center}
+.lightbox img{max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain;cursor:zoom-in}
+.lightbox.zoomed{overflow:auto;display:block}
+.lightbox.zoomed img{max-width:none;max-height:none;width:auto;height:auto;cursor:zoom-out;margin:auto}
+.lightbox.zoomed{display:flex;align-items:flex-start;justify-content:center}
+.lightbox-close{position:fixed;top:14px;right:18px;z-index:1000;background:none;border:1px solid rgba(255,255,255,.5);color:#fff;border-radius:999px;width:40px;height:40px;font-size:17px;cursor:pointer}
