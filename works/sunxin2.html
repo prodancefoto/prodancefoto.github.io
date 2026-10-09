@@ -3,7 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#8a1f2b">
+<meta name="theme-color" content="#f5f3ee">
+<meta name="robots" content="index,follow,max-image-preview:large">
 <title>孙欣（芭蕾二辑） · 舞摄影作品集｜芭蕾人像</title>
 <meta name="description" content="舞摄影作品 · 孙欣（芭蕾二辑）（2016 · 芭蕾 · 广州芭蕾舞团）。由首席摄影师郭荣基拍摄、舞蹈编导赵喆现场舞蹈指导的舞蹈人像图集，华南地区专业舞蹈摄影。">
 <meta name="keywords" content="孙欣（芭蕾二辑）,芭蕾,舞蹈人像,舞摄影,广州芭蕾舞团,郭荣基,赵喆,华南舞蹈摄影">
@@ -12,16 +13,16 @@
 <body>
 <header class="nav">
   <div class="nav-in">
-    <div class="brand"><span class="dot"></span>舞摄影</div>
-    <nav class="nav-links">
-      <a href="../index.html#advantage">核心优势</a>
-      <a href="../index.html#branches">网点</a>
-      <a href="../works.html">作品集</a>
-      <a href="../index.html#about">关于</a>
-      <a href="../index.html#faq">问答</a>
-      <a href="../index.html#contact">联系</a>
+    <a class="brand" href="../index.html"><span class="brand-mark">W</span><span>舞摄影<small>DANCE PHOTOGRAPHY</small></span></a>
+    <nav class="nav-links" id="siteNav">
+      <a href="../index.html#works">作品</a>
+      <a href="../index.html#approach">创作方式</a>
+      <a href="../index.html#styles">创作方向</a>
+      <a href="../index.html#studio">拍摄空间</a>
+      <a href="../index.html#founders">创始人</a>
+      <a href="../index.html#faq">常见问题</a>
     </nav>
-    <button class="theme-btn" id="themeBtn" aria-label="切换深浅色">🌗 主题</button>
+    <button class="menu-toggle" id="menuToggle" aria-expanded="false" aria-controls="siteNav" aria-label="打开导航菜单"><span></span><span></span></button>
   </div>
 </header>
 <section class="hero-sm">
@@ -55,18 +56,6 @@
 </footer>
 <script>
   (function(){
-    var btn=document.getElementById('themeBtn');
-    var saved=localStorage.getItem('wys-theme');
-    var sysDark=window.matchMedia('(prefers-color-scheme: dark)').matches;
-    var theme=saved||(sysDark?'dark':'light');
-    document.documentElement.setAttribute('data-theme',theme);
-    btn.addEventListener('click',function(){
-      theme=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';
-      document.documentElement.setAttribute('data-theme',theme);
-      localStorage.setItem('wys-theme',theme);
-    });
-  })();
-  (function(){
     var els=document.querySelectorAll('.reveal');
     if(!('IntersectionObserver'in window)){els.forEach(function(e){e.classList.add('in')});return;}
     var io=new IntersectionObserver(function(es){
@@ -74,6 +63,17 @@
     },{threshold:.12});
     els.forEach(function(e){io.observe(e);});
   })();
+</script>
+
+<script>
+(function(){
+ var toggle=document.getElementById('menuToggle');
+ var nav=document.getElementById('siteNav');
+ if(toggle&&nav){
+  toggle.addEventListener('click',function(){var open=toggle.getAttribute('aria-expanded')==='true';toggle.setAttribute('aria-expanded',String(!open));toggle.setAttribute('aria-label',open?'打开导航菜单':'关闭导航菜单');nav.classList.toggle('is-open',!open);});
+  nav.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){toggle.setAttribute('aria-expanded','false');toggle.setAttribute('aria-label','打开导航菜单');nav.classList.remove('is-open');});});
+ }
+})();
 </script>
 </body>
 </html>

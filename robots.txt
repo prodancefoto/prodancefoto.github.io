@@ -1,24 +1,4 @@
 User-agent: *
 Allow: /
-
-# 放行主流 AI 搜索引擎爬虫，确保内容可被 AI 引用
-User-agent: GPTBot
-Allow: /
-
-User-agent: CCBot
-Allow: /
-
-User-agent: Claude-Web
-Allow: /
-
-User-agent: Baiduspider
-Allow: /
-
-User-agent: Bytespider
-Allow: /
-
-User-agent: Applebot
-Allow: /
-
-User-agent: Googlebot
-Allow: /
+Disallow: /assets/
+Sitemap: https://prodancefoto.pages.dev/sitemap.xml
