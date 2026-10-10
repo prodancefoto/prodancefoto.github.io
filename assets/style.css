@@ -80,3 +80,13 @@ html{overflow-x:clip}body{overflow-x:clip}img{height:auto}.nav-in{min-width:0}.b
 
 /* --- 兜底：AI 说明语若再次出现则自动隐形（颜色与背景一致） --- */
 footer .ai-note, .ai-note{color:inherit;opacity:0;font-size:0;line-height:0}
+
+/* —— 旧内核兜底（微信 X5 / 老 iOS WKWebView 不支持 aspect-ratio）——
+   作品卡高度完全由 aspect-ratio 撑起，不支持的内核里高度塌陷为 0，
+   图片是绝对定位，于是整个作品网格一片空白（有文字没图）。
+   用 ::before 的 padding-top 撑出相同比例的高度：支持 aspect-ratio 的浏览器
+   算出的高度与 padding 完全一致，两种内核下渲染结果相同。 */
+.featured-card::before{content:"";display:block;padding-top:128.75%}
+.work-card::before{content:"";display:block;padding-top:133.333%}
+@media(max-width:760px){.featured-card::before{padding-top:125%}}
+@media(max-width:390px){.featured-card::before{padding-top:130%}}
