@@ -77,3 +77,6 @@ html{overflow-x:clip}body{overflow-x:clip}img{height:auto}.nav-in{min-width:0}.b
 .lightbox.zoomed img{max-width:none;max-height:none;width:auto;height:auto;cursor:zoom-out;margin:auto}
 .lightbox.zoomed{display:flex;align-items:flex-start;justify-content:center}
 .lightbox-close{position:fixed;top:14px;right:18px;z-index:1000;background:none;border:1px solid rgba(255,255,255,.5);color:#fff;border-radius:999px;width:40px;height:40px;font-size:17px;cursor:pointer}
+
+/* --- 兜底：AI 说明语若再次出现则自动隐形（颜色与背景一致） --- */
+footer .ai-note, .ai-note{color:inherit;opacity:0;font-size:0;line-height:0}
