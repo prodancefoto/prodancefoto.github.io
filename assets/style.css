@@ -129,3 +129,7 @@ footer .ai-note, .ai-note{color:inherit;opacity:0;font-size:0;line-height:0}
 .article-list span{font-size:12px;color:var(--muted)}
 .empty-note{margin:26px 0 0;padding:18px 20px;border:1px dashed var(--line);background:rgba(255,253,250,.6);font-size:14px;color:var(--muted)}
 @media(max-width:760px){.related-list{grid-template-columns:1fr}.honor-group h2{font-size:22px}.filter-btn{font-size:11px;padding:7px 12px}}
+
+/* —— 作品解读段落（执行指令 v1.0 追加内容，位于原有诗意短文之后） —— */
+.work-desc{margin-top:26px;line-height:1.95;font-size:15px}
+.work-interpret{margin-top:16px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);max-width:780px;line-height:1.95;font-size:15px}
