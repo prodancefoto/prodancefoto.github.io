@@ -133,3 +133,6 @@ footer .ai-note, .ai-note{color:inherit;opacity:0;font-size:0;line-height:0}
 /* —— 作品解读段落（执行指令 v1.0 追加内容，位于原有诗意短文之后） —— */
 .work-desc{margin-top:26px;line-height:1.95;font-size:15px}
 .work-interpret{margin-top:16px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);max-width:780px;line-height:1.95;font-size:15px}
+
+/* —— 作品主题关键词（执行指令 v1.0「主题关键词」可见呈现，用于内容语义与分类） —— */
+.work-topics{margin-top:14px;font-size:13px;color:var(--muted);letter-spacing:.02em}
