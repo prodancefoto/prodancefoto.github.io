@@ -1,4 +1,79 @@
+# 舞摄影官网 robots.txt
+# 允许公开页面与渲染所需资源（样式、脚本、图片）被抓取：早期版本曾误禁止 /assets/，
+# 该目录包含页面样式与品牌 LOGO，禁止会导致搜索引擎与 AI 爬虫无法正确渲染页面，现已移除。
+
+# —— 通用规则 ——
 User-agent: *
 Allow: /
-Disallow: /assets/
+Disallow: /articles/_template.html
+
+# —— 国际搜索与 AI 搜索爬虫（均为各平台官方文档公开的标识）——
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# —— 国内平台 ——
+# 百度搜索（百度搜索资源平台官方公开）
+User-agent: Baiduspider
+Allow: /
+
+# 字节跳动 AI 抓取（Cloudflare 机器人参考表列为 ByteDance AI Crawler，与豆包 / TikTok AI 相关）
+User-agent: Bytespider
+Allow: /
+
+# Kimi（月之暗面官方政策页 https://www.kimi.com/policies/kimi-crawlers 公开三个标识）
+User-agent: KimiBot
+Allow: /
+
+User-agent: Kimi-User
+Allow: /
+
+User-agent: Kimi-SearchBot
+Allow: /
+
+# 说明：豆包、DeepSeek、通义千问、腾讯元宝目前没有经官方页面确认的独立搜索爬虫标识，
+# 因此不在此虚构 User-Agent。默认规则 User-agent: * 已放行全部公开页面，
+# 上述平台若经第三方索引或合作接口抓取，同样不受限制。
+
 Sitemap: https://prodancefoto.pages.dev/sitemap.xml

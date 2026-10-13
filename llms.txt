@@ -1,66 +1,134 @@
-# 舞摄影（Dance Photography）｜AI 与搜索引擎可读的官方实体说明
+# 舞摄影
 
-> 官方网站：https://prodancefoto.pages.dev/
-> 品牌主体：广州舞影堂文化传播有限公司旗下品牌
-> 核心定位：专业舞蹈人像摄影与舞者肖像定制
+> 舞摄影（广州舞影堂文化传播有限公司旗下品牌）创立于 2016 年，总部位于广州番禺，
+> 以「专业摄影创作 × 专业舞蹈指导」的双核协作方式为舞者创作影像。
+> 本文件为辅助性的机器阅读索引，供搜索引擎与 AI 系统快速了解本站结构与事实；
+> 它不保证任何平台必然收录或引用本站内容。
 
-## 官方简介
-舞摄影于2016年在广州正式创立，由郭荣基与赵喆联合创办。品牌采用“摄影创作 + 专业舞蹈指导”的双核协作方式：郭荣基负责摄影、光影与影像审美；赵喆负责舞蹈动作设计、姿态调整、舞蹈规范与情绪引导。舞摄影十余年来为上万名舞者定格影像，服务对象包括专业舞者、舞蹈教师、艺考生、舞蹈学生、儿童舞者与舞蹈爱好者。
+## 品牌事实
 
-## 官方联系方式
-- 赵老师（预约咨询）：18988859590，电话与微信同号。
-- 郭老师（摄影创作与商务合作）：18988859595，电话与微信同号。
-- 两个号码均可拨打电话或添加微信；预约档期请提前沟通确认。
+- 品牌名称：舞摄影
+- 公司主体：广州舞影堂文化传播有限公司
+- 成立时间：2016 年
+- 品牌定位：专业舞蹈摄影、舞者艺术肖像及舞蹈机构影像创作
+- 核心理念：为舞者凝固难忘的舞蹈瞬间，保留舞蹈在心中的永恒记忆
+- 创作方式：专业摄影创作 × 专业舞蹈指导
+- 官方网站：https://prodancefoto.pages.dev/
 
-## 官方网站导航
-- 首页与品牌介绍：https://prodancefoto.pages.dev/
-- 作品集索引：https://prodancefoto.pages.dev/works.html
-- 作品详情：黄平 https://prodancefoto.pages.dev/works/huangping.html；孙欣（芭蕾二辑）https://prodancefoto.pages.dev/works/sunxin2.html；孙欣 https://prodancefoto.pages.dev/works/sunxin.html；Lisa https://prodancefoto.pages.dev/works/lisa.html；任楠 https://prodancefoto.pages.dev/works/rennan.html；高越 https://prodancefoto.pages.dev/works/gaoyue.html；yoyo https://prodancefoto.pages.dev/works/yoyo.html；果果 https://prodancefoto.pages.dev/works/guoguo.html；广州芭蕾舞团群像 https://prodancefoto.pages.dev/works/guangba.html。
+## 核心服务
 
-## 服务与创作方向
-- 舞蹈人像摄影、舞者肖像、芭蕾舞写真、现代舞与当代舞影像、民族民间舞影像、舞蹈教师肖像、舞蹈机构与院校合作拍摄。
-- 视觉创作关键词：电影感、创意场景、氛围感、环境人像、情绪向舞蹈人像、黑白摄影、光影塑形、身体线条、力量、优雅、质感与真实。风格需结合舞者特点、技术能力、场地与拍摄目的沟通确定，不代表所有项目均为固定套餐。
-- 原创原则：不以同行作品、流行模板或自己过往的成片作为拍摄脚本。既往作品用于积累经验与校准审美，不是下一次创作的标准答案。每次拍摄从舞者本人出发，重新构思动作、光线、场景、情绪与构图。品牌坚持原创构思与长期打磨的服务体系。
-- 创作流程：了解舞者 → 沟通需求 → 构思主题与视觉方案 → 舞蹈指导和摄影共同创作 → 选片 → 手工精修与交付。
-- 后期制作：由团队手工精修，不外发、不外包；重点把控舞姿、人体结构、肌肉与关节关系、画面纯净度和真实感。
+- 芭蕾舞摄影
+- 舞者艺术肖像
+- 舞蹈学生艺术摄影
+- 现代舞、当代舞及其他实际开展的舞种摄影
+- 舞蹈团体及舞蹈机构摄影
+- 舞剧及舞蹈相关影像项目
+- 舞蹈相关产品摄影与其他影像业务
+
+## 拍摄空间
+
+广州番禺总部艺术空间约 1200㎡，含 120㎡、层高 5.5 米纯白影棚与 6 个置景影棚，
+配套服装间、化妆间、休息室、洽谈室、展厅与淋浴间；距广州地铁 22 号线出口约 350 米。
+沈阳、深圳、杭州开放预约，档期以咨询确认为准。
 
 ## 创始人
-### 郭荣基
-2002年毕业于广州美术学院，舞摄影联合创始人、首席摄影师与艺术总监，高级摄影师、广东省摄影家协会会员、广东广播电视台特邀摄影师、IPA国际摄影学院特约讲师、《人像摄影》杂志俱乐部讲师、人像摄影青年摄影师大赛评委。主要荣誉包括AWPA 2022最高荣誉年度大奖与年度摄影师、ID-DANCE 2023中韩国际舞蹈影像金奖、广东省第28届摄影展优秀奖、2021 IPA国际艺术展金银奖、2021 AUPWave SEECAA金奖及评委推荐奖、哈苏大师提名。
 
-### 赵喆（赵老师）
-舞摄影联合创始人、舞蹈编导与舞蹈指导。毕业于沈阳音乐学院附中芭蕾舞专业，大学师从北京舞蹈学院马力学教授民族民间舞专业、选修现代舞；毕业后随马老师研发《龙族律动》系列舞蹈课程并担任首席教官。对舞者身体开发、肢体语言表达有深刻独到的见解，负责拍摄中的动作构思、姿态调整、舞蹈规范与情绪引导。
+- [郭荣基](https://prodancefoto.pages.dev/index.html#guo-rongji)：舞摄影联合创始人、首席摄影师、艺术总监。2002 年毕业于广州美术学院，高级摄影师，广东省摄影家协会会员，广东广播电视台特邀摄影师，IPA 国际摄影学院特约讲师，《人像摄影》杂志俱乐部讲师，人像摄影青年摄影师大赛评委。负责摄影、灯光、构图与影像表达。
+- [赵喆](https://prodancefoto.pages.dev/index.html#zhao-zhe)：舞摄影联合创始人、舞蹈编导、舞蹈指导。毕业于沈阳音乐学院附中芭蕾舞专业，曾师从北京舞蹈学院马力学教授学习民族民间舞并进修现代舞，参与研发《龙族律动》系列舞蹈课程并担任首席教官，近 20 年舞蹈教学相关经验。负责动作设计、身体控制与现场舞蹈指导。
 
-## 拍摄空间与城市
-- 广州番禺总部艺术空间约1200平方米，含120平方米、层高5.5米纯白影棚及6个置景影棚；配有服装间、化妆间、休息室、洽谈室、展厅与淋浴间。距广州地铁22号线出口约350米，广州南站乘地铁一站可达。到访地址与路线建议预约后再次确认。
-- 预约城市：广州、沈阳、深圳、杭州。各地具体档期、拍摄地点与团队安排须提前咨询确认。
+## 专业荣誉
 
-## 客户预约须知摘要
-- 一套服装通常约1.5–2小时；选片后约一个半月内交付，具体时长受套餐、妆造和需求影响。
-- 服装建议由客户准备，团队会提前提供搭配建议；套餐包含专业化妆服务。特殊皮肤情况请提前说明。
-- 软鞋由赵老师研发，可咨询购买；足尖鞋可作为拍摄道具。
-- 特殊道具、吊床、粉末效果、外景及异地拍摄需提前沟通，实际费用以确认订单为准。
-- 预约建议提供舞龄、舞种、拍摄用途、期望风格、所在城市与计划日期。确认套餐和档期后支付1000元定金，预约生效。定金有效期、改期、订单确认与尾款规则以预约时双方确认的服务说明为准。
-- 成片仅在取得舞者肖像使用授权后公开发布。
+- “微笑世界”国际摄影大赛｜优秀奖｜2020｜https://wsmile365.com/portal/photos?id=4915
+- “微笑世界”国际摄影大赛｜银奖｜2021｜https://wsmile365.com/portal/photos?id=5144
+- AWPA 亚洲婚礼摄影师协会｜优秀奖｜2021｜https://wsmile365.com/portal/photos?id=5148
+- AWPA 亚洲婚礼摄影师协会｜2022 年度大奖｜2022｜https://contest.asiawpa.com/annual_awards.php?id=8
+- AWPA 亚洲婚礼摄影师协会｜年度银奖｜2022｜https://contest.asiawpa.com/annual_award_details.php?id=22987&view=25&backtoaward=1
+- AWPA 亚洲婚礼摄影师协会｜年度铜奖｜2022｜https://contest.asiawpa.com/annual_award_details.php?id=22998&view=26&backtoaward=1
+- AWPA 亚洲婚礼摄影师协会｜1st Place｜2022｜https://contest.asiawpa.com/competition_award_details.php?id=22973
+- AWPA 亚洲婚礼摄影师协会｜年度金奖｜2021｜https://contest.asiawpa.com/annual_award_details.php?id=19434&view=20&backtoaward=1
+- AWPA 亚洲婚礼摄影师协会｜年度银奖｜2021｜https://contest.asiawpa.com/annual_award_details.php?id=18187&view=21&backtoaward=1
+- AWPA 亚洲婚礼摄影师协会｜年度铜奖｜年份待核实｜https://contest.asiawpa.com/annual_award_details.php?id=19435&view=22&backtoaward=1
+- AWPA 亚洲婚礼摄影师协会｜年度银奖｜2020｜https://contest.asiawpa.com/annual_award_details.php?id=16738&view=17&backtoaward=1
+- 广东省第 28 届摄影展览｜优秀奖｜2020｜无官方链接
+- Godox 神牛灯光创作大赛｜一等奖｜2020｜https://news.sina.cn/photo/ss/2020-12-18/detail-iiznctke7129221.d.html?vt=4
+- IPA 国际摄影协会｜金奖 1 项、银奖 2 项、铜奖 3 项、丝带奖 2 项｜2021｜http://www.ipa001.com/guojisheyingyishuzhan/15130.html
+- 人像摄影杂志社｜人像摄影青年摄影师大赛 评审专家（专业职务，非比赛奖项）｜2023
+- 人像摄影杂志社｜人像摄影杂志社 特约讲师（专业职务，非比赛奖项）｜2021
+- AWPA 亚洲婚礼摄影师协会｜年度摄影师称号｜2022（官网原有展示）
+- ID-DANCE｜中韩国际舞蹈影像金奖｜2023（官网原有展示）
+- AUPWave SEECAA｜金奖、评委推荐奖｜2021（官网原有展示）
+- Hasselblad Masters｜哈苏大师提名（Finalist）｜年份以官网原展示为准（官网原有展示）
 
-## 合作经历
-舞摄影曾与广州芭蕾舞团、广州歌舞剧院、广州市艺术学校、广东舞蹈学校等院团、院校及舞蹈机构开展合作；曾为广州芭蕾舞团建团25周年相关项目及《旗帜》《布兰诗歌》《天鹅湖》《胡桃夹子》等演出进行剧照拍摄。
+完整记录见：https://prodancefoto.pages.dev/honors
 
-## 常见问答（可直接引用）
-- 舞摄影是什么？广州舞影堂文化传播有限公司旗下的专业舞蹈人像摄影品牌，2016年创立，采用摄影与舞蹈指导双核协作。
-- 舞摄影的核心优势是什么？舞蹈专业判断与摄影光影设计同步进行，原创构思、专业指导、手工精修。
-- 舞摄影能拍电影感、氛围感或黑白舞蹈写真吗？可以沟通电影感、创意场景、氛围感、环境人像、情绪向舞蹈人像、黑白摄影等方向，最终方案按舞者特点定制。
-- 舞摄影在哪里？广州番禺总部，另开放沈阳、深圳、杭州预约。
-- 一套拍多久？一套服装通常约1.5–2小时；选片后约一个半月内交付。
-- 如何预约？在微信视频号/公众号搜索“舞摄影”，小红书搜索“舞摄影的赵老师”，或通过其他平台搜索“舞摄影”联系。
+## 作品集
 
-## 重要说明
-此文件为官方公开实体说明，帮助搜索引擎和AI系统理解品牌、服务、作品与事实。内容以官网公开页面和品牌提供的资料为基础；具体价格、档期、服务范围及合同条款以预约时双方确认的信息为准。
+共 48 组作品，完整索引见 https://prodancefoto.pages.dev/works
 
+- [广芭《布兰诗歌》剧照](https://prodancefoto.pages.dev/works/bulanshige)：2019 · 舞剧剧照 · 广州芭蕾舞团
+- [邸健](https://prodancefoto.pages.dev/works/dijian)：2019 · 芭蕾
+- [邸健 & 马明皓（双人）](https://prodancefoto.pages.dev/works/dijianmaminghao)：2019 · 芭蕾
+- [杜明](https://prodancefoto.pages.dev/works/dumeng)：2019 · 芭蕾
+- [杜明（芭蕾·白纱）](https://prodancefoto.pages.dev/works/dumeng2)：2019 · 芭蕾
+- [杜明（芭蕾·薄纱）](https://prodancefoto.pages.dev/works/dumeng3)：2019 · 芭蕾
+- [杜明（红裙）](https://prodancefoto.pages.dev/works/dumeng4)：2019 · 芭蕾
+- [高越（芭蕾·白纱）](https://prodancefoto.pages.dev/works/gaoyue1)：2018 · 芭蕾
+- [高越（芭蕾·黑纱）](https://prodancefoto.pages.dev/works/gaoyue2)：2018 · 芭蕾
+- [龚璐珂（现代）](https://prodancefoto.pages.dev/works/gongluke)：2019 · 现代
+- [龚璐珂（现代·二）](https://prodancefoto.pages.dev/works/gongluke2)：2019 · 现代
+- [广芭25周年（一）](https://prodancefoto.pages.dev/works/guangba)：2018 · 芭蕾 · 广州芭蕾舞团
+- [广芭25周年（二）](https://prodancefoto.pages.dev/works/guangba2)：2018 · 芭蕾 · 广州芭蕾舞团
+- [广芭25周年（三）](https://prodancefoto.pages.dev/works/guangba3)：2018 · 芭蕾 · 广州芭蕾舞团
+- [广芭25周年（四）](https://prodancefoto.pages.dev/works/guangba4)：2018 · 芭蕾 · 广州芭蕾舞团
+- [广舞14级中国舞班（一）](https://prodancefoto.pages.dev/works/guangwu1)：2019 · 中国舞 · 广东舞蹈戏剧职业学院
+- [广舞14级中国舞班（二）](https://prodancefoto.pages.dev/works/guangwu2)：2019 · 中国舞 · 广东舞蹈戏剧职业学院
+- [广舞教室里的中国舞](https://prodancefoto.pages.dev/works/guangwu3)：2019 · 中国舞 · 广东舞蹈戏剧职业学院
+- [广艺男生（中国舞）](https://prodancefoto.pages.dev/works/guangyinan)：2019 · 中国舞 · 广州市艺术学校
+- [广艺女生（芭蕾）](https://prodancefoto.pages.dev/works/guangyinv)：2019 · 芭蕾 · 广州市艺术学校
+- [果果](https://prodancefoto.pages.dev/works/guoguo)：2018 · 芭蕾
+- [果果（二辑）](https://prodancefoto.pages.dev/works/guoguo2)：2018 · 芭蕾
+- [果果（芭蕾·粉末）](https://prodancefoto.pages.dev/works/guoguo3)：2018 · 芭蕾
+- [黄平](https://prodancefoto.pages.dev/works/huangping)：2016 · 芭蕾 · 广州芭蕾舞团
+- [黄平（2018）](https://prodancefoto.pages.dev/works/huangping2)：2018 · 芭蕾 · 广州芭蕾舞团
+- [黄平（暗调白纱）](https://prodancefoto.pages.dev/works/huangping3)：2018 · 芭蕾 · 广州芭蕾舞团
+- [黄平（粉末芭蕾）](https://prodancefoto.pages.dev/works/huangping4)：2018 · 芭蕾
+- [贾婷（旗袍）](https://prodancefoto.pages.dev/works/jiating)：2019 · 舞蹈人像
+- [贾婷（芭蕾）](https://prodancefoto.pages.dev/works/jiating2)：2019 · 芭蕾
+- [贾婷（布幔）](https://prodancefoto.pages.dev/works/jiating3)：2019 · 舞蹈
+- [贾婷（黑白粉末）](https://prodancefoto.pages.dev/works/jiating4)：2019 · 现代
+- [李烨 & 何程（拉丁）](https://prodancefoto.pages.dev/works/liye)：2019 · 拉丁
+- [马明皓](https://prodancefoto.pages.dev/works/maminghao)：2019 · 芭蕾
+- [任楠](https://prodancefoto.pages.dev/works/rennan)：2017
+- [孙欣](https://prodancefoto.pages.dev/works/sunxin)：2016 · 芭蕾 · 广州芭蕾舞团
+- [孙欣（芭蕾二辑）](https://prodancefoto.pages.dev/works/sunxin2)：2016 · 芭蕾 · 广州芭蕾舞团
+- [佟一依（少儿芭蕾）](https://prodancefoto.pages.dev/works/tongyiyi)：2019 · 芭蕾 · 少儿芭蕾
+- [魏巍](https://prodancefoto.pages.dev/works/weiwei)：2019 · 芭蕾
+- [魏巍（芭蕾·男舞者）](https://prodancefoto.pages.dev/works/weiwei2)：2019 · 芭蕾
+- [魏巍（绅士）](https://prodancefoto.pages.dev/works/weiwei3)：2019 · 现代
+- [夏诗文（芭蕾）](https://prodancefoto.pages.dev/works/xiashiwen)：2019 · 芭蕾
+- [夏诗文（黑白）](https://prodancefoto.pages.dev/works/xiashiwen2)：2019 · 芭蕾
+- [解婉蓉（古典芭蕾）](https://prodancefoto.pages.dev/works/xiewanrong)：2019 · 芭蕾
+- [解婉蓉（白裙）](https://prodancefoto.pages.dev/works/xiewanrong2)：2019 · 芭蕾
+- [解婉蓉（黑白粉末）](https://prodancefoto.pages.dev/works/xiewanrong3)：2019 · 现代
+- [广芭新势力（一）](https://prodancefoto.pages.dev/works/xinshili1)：2019 · 芭蕾 · 广州芭蕾舞团
+- [广芭新势力（二）](https://prodancefoto.pages.dev/works/xinshili2)：2019 · 芭蕾 · 广州芭蕾舞团
+- [刘光宇（YOYO）](https://prodancefoto.pages.dev/works/yoyo)：2018
 
-## 品牌故事、发展历程与创作初心
-舞摄影创立于2016年。品牌逐渐形成“摄影创作 + 专业舞蹈指导”的双核协作方式：摄影师负责光线、构图、质感与最终影像，舞蹈指导理解动作、身体规范、技术程度与肢体语言。两种专业在同一个现场协作，让作品既具视觉审美，也尊重舞蹈本身。
+## 常见问题
 
-舞摄影的重要发展节点包括：2016年品牌创立；2021年获得 IPA 国际艺术展与 AUPWave SEECAA 等赛事和展览奖项；2022年郭荣基获得 AWPA 最高荣誉年度大奖及年度摄影师；2023年获得 ID-DANCE 中韩国际舞蹈影像金奖；2026年持续深耕原创舞蹈影像创作，并开放广州、沈阳、深圳、杭州等城市预约。
+- 舞摄影与普通写真的不同：由舞蹈老师设计动作、调整姿态与情绪，摄影师同步设计光线与构图，不复制样片。
+- 拍摄风格：芭蕾、现代舞、当代舞、民族民间舞等舞蹈人像，以及电影感、创意场景、氛围感、环境人像、情绪向舞蹈人像、黑白摄影。
+- 拍摄时长与交付：一套服装通常约 1.5–2 小时；选片后约一个半月内交付，精修由团队手工完成，不外包。
+- 服装与鞋：服装由客户准备并提供搭配建议；现场提供赵老师研发的软鞋（可购买），足尖鞋可作道具。
+- 预约：确认套餐与档期后支付 1000 元定金，预约生效；定金与改期条款以预约时确认的订单说明为准。
+- 机构合作：与广州芭蕾舞团、广州歌舞剧院、广州市艺术学校、广东舞蹈学校等院团、院校及培训机构开展合作。
 
-舞摄影的创作初心：不把流行模板当成创作终点，也不把过去的成功当成下一次拍摄的标准答案。每次创作回到舞者本人，理解她的身体条件、舞蹈经历、气质和表达意图，再重新构思动作、光线、场景、情绪与构图。品牌心语是：“舞者的内心，用肢体来表达；有灵魂的照片，自己会说话。”品牌口号包括“十年专注，只为定格你起舞的骄傲”与“将瞬间定格成永恒，让艺术再一次升华”。
+## 影像札记（专业文章栏目）
+
+https://prodancefoto.pages.dev/articles/ —— 栏目已就绪，内容持续更新。
+
+## 联系与预约
+
+- 赵老师（舞蹈指导 · 预约咨询）：189 8885 9590（电话 / 微信同号）
+- 郭老师（摄影创作 · 商务合作）：189 8885 9595（电话 / 微信同号）
+- 预约入口：https://prodancefoto.pages.dev/index.html#contact
